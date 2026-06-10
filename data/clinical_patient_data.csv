@@ -1,0 +1,4 @@
+﻿Did They Get Surgery?,Date of 3D Scan,Clinic Name,Patient's Number (New System),Sex (M/F),Age at First 3D Scan,Height,Weight,"Lenke Curve Type (1,2,3,4,5,6)",Is Before Brace X-Ray Available? (Y/N),Thoracic Cobb Angle (Before Brace),Lumbar Cobb Angle (Before Brace),Thoraco Lumbar Cobb Angle (Before Brace),Is In-Brace X-Ray available? (Y/N),Thoracic Cobb Angle (In-Brace),Lumbar Cobb Angle (In-Brace),Thoraco Lumbar Cobb Angle (In-Brace),Did the Cobb Angle Change?(Y/N),Thoracic Cobb Angle Difference,Lumbar Cobb Angle Difference,Thoraco Lumbar Cobb Angle Difference,Is Patient's Lateral Image (JPG) Available?,Is Patient's Forward Bending Image (JPG) Available?,Is Patient's Back View Image (JPG) Availbale?,Average ,Column2,Column3,Column4
+,,,1,F,13,160,50,1,Y,35,,,Y,20,,,,,,,,,,,,,
+,,,2,F,14,158,48,5,Y,,,30,Y,,,18,,,,,,,,,,,
+,,,3,M,15,170,55,1,Y,28,,,Y,16,,,,,,,,,,,,,

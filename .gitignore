@@ -1,0 +1,29 @@
+# Proprietary MSC/Marc library - never commit (comes from your own Marc install)
+py_post.pyd
+*.pyd
+
+# Never commit the real clinical data
+clinical_patient_data.csv
+Curve_convexity_directions.csv
+Patient specific data.csv
+Patient_specific_data.csv
+
+# but DO keep the synthetic example copies in data/
+!data/clinical_patient_data.csv
+!data/Curve_convexity_directions.csv
+!data/Patient specific data.csv
+
+# Marc input/output and run files (large, machine-specific)
+*.dat
+*.t16
+*.out
+*.sts
+*.log
+
+# FE model folders and sensitivity outputs
+Automated models/
+Sensitivities*/
+
+# Python
+__pycache__/
+*.pyc
